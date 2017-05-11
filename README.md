@@ -20,7 +20,7 @@ Add the following to your `app/assets/javascripts/application.js`:
 
 ## Versions
 
-The gem follows Parsley-Payment's versions. If the gem's version is `1.0.0.0`, then `1.0.0` is a version of Parsley-Payment and `0`
+The gem follows Parsley-Payment's versions. If the gem's version is `1.0.1.0`, then `1.0.1` is a version of Parsley-Payment and `0`
 is a patch level of the gem itself.
 
 ## Contributing
